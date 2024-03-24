@@ -9,3 +9,5 @@
 ## Day 4: Wrapping up
 
 ## Day 5: Finish
+ 
+-Ready to deploy
