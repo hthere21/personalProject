@@ -13,4 +13,5 @@
 ## Day 6: Working on Docker compose
 
 
--Ready to deploy
+- Ready to deploy
+- Learning how to set up new Docker image
